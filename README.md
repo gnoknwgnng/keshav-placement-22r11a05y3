@@ -4,8 +4,8 @@
 This project demonstrates modern web design using Bootstrap 5 components, creating a responsive and visually appealing multi-page website.
 
 ## 🚀 Live Demo
-- **GitHub Repository**: [Your GitHub URL here]
-- **Live Preview**: [Your GitHub Pages/Netlify URL here]
+- **GitHub Repository**: https://github.com/gnoknwgnng/keshav-placement-22r11a05y3
+- **Live Preview**: https://keshav-22r11a05y3.netlify.app/
 
 ## 📁 Project Structure
 ```
